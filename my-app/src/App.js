@@ -5,6 +5,7 @@ function App() {
         <p>
           Hello World
         </p>
+        <p>Hi</p>
       </header>
     </div>
   );
